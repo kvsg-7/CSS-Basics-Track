@@ -2,7 +2,7 @@
 
 ## Description
 
-This project or repo is a personnel, that was created to pracrice some **CSS** skills I just learned through [theodinproject](https://www.theodinproject.com/) 
+This project or repo is a personnel project, that was created to pracrice some **CSS** skills I just learned through [theodinproject](https://www.theodinproject.com/) 
 
 ### Key Concepts
 
